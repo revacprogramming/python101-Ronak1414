@@ -15,3 +15,4 @@ for line in fh:
         
         avg=total/count
 print("Average spam confidence:",avg)
+#...
