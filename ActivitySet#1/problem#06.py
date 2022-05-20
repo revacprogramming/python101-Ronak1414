@@ -33,3 +33,4 @@ while True:
 
 print("Maximum", largest)
 print("Minimum",smallest)
+print("done")
